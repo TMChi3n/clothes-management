@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/github.io/clothes-management/static/js/main.de01ad3a.chunk.js",
+    "main.js.map": "/github.io/clothes-management/static/js/main.de01ad3a.chunk.js.map",
+    "runtime-main.js": "/github.io/clothes-management/static/js/runtime-main.a8a935b2.js",
+    "runtime-main.js.map": "/github.io/clothes-management/static/js/runtime-main.a8a935b2.js.map",
+    "static/js/2.ca3240d3.chunk.js": "/github.io/clothes-management/static/js/2.ca3240d3.chunk.js",
+    "static/js/2.ca3240d3.chunk.js.map": "/github.io/clothes-management/static/js/2.ca3240d3.chunk.js.map",
+    "index.html": "/github.io/clothes-management/index.html",
+    "precache-manifest.560c4f281c64fa89891a5926ea0cf235.js": "/github.io/clothes-management/precache-manifest.560c4f281c64fa89891a5926ea0cf235.js",
+    "service-worker.js": "/github.io/clothes-management/service-worker.js",
+    "static/js/2.ca3240d3.chunk.js.LICENSE.txt": "/github.io/clothes-management/static/js/2.ca3240d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a935b2.js",
+    "static/js/2.ca3240d3.chunk.js",
+    "static/js/main.de01ad3a.chunk.js"
+  ]
+}
